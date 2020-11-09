@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Organization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <employees>
+    <Employee xsi:type="EmployeeWithMonthlyPayment">
+      <Id>950</Id>
+      <Name>АЩСЬЛсьчГиГЫыы)</Name>
+      <DateOfBirth>45.35.5102</DateOfBirth>
+      <Rank>1</Rank>
+      <fixedSalary>160000</fixedSalary>
+    </Employee>
+    <Employee xsi:type="EmployeeWithMonthlyPayment">
+      <Id>1</Id>
+      <Name>Вова</Name>
+      <DateOfBirth>25.05.1062</DateOfBirth>
+      <Rank>5</Rank>
+      <fixedSalary>100000</fixedSalary>
+    </Employee>
+    <Employee xsi:type="EmployeeWithHourlyPayment">
+      <Id>5</Id>
+      <Name>Сщчс</Name>
+      <DateOfBirth>25.45.1002</DateOfBirth>
+      <Rank>3</Rank>
+      <hourlyRate>600</hourlyRate>
+    </Employee>
+    <Employee xsi:type="EmployeeWithHourlyPayment">
+      <Id>3</Id>
+      <Name>ЬСЬЧС</Name>
+      <DateOfBirth>35.05.1402</DateOfBirth>
+      <Rank>2</Rank>
+      <hourlyRate>500</hourlyRate>
+    </Employee>
+    <Employee xsi:type="EmployeeWithMonthlyPayment">
+      <Id>80</Id>
+      <Name>мсиовава</Name>
+      <DateOfBirth>05.05.5102</DateOfBirth>
+      <Rank>2</Rank>
+      <fixedSalary>70000</fixedSalary>
+    </Employee>
+    <Employee xsi:type="EmployeeWithMonthlyPayment">
+      <Id>90</Id>
+      <Name>счВовава</Name>
+      <DateOfBirth>05.05.5102</DateOfBirth>
+      <Rank>4</Rank>
+      <fixedSalary>50000</fixedSalary>
+    </Employee>
+  </employees>
+</Organization>
