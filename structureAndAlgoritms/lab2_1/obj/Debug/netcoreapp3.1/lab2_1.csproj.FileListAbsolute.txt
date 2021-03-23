@@ -1,0 +1,13 @@
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\bin\Debug\netcoreapp3.1\lab2_1.exe
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\bin\Debug\netcoreapp3.1\lab2_1.deps.json
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\bin\Debug\netcoreapp3.1\lab2_1.runtimeconfig.json
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\bin\Debug\netcoreapp3.1\lab2_1.runtimeconfig.dev.json
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\bin\Debug\netcoreapp3.1\lab2_1.dll
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\bin\Debug\netcoreapp3.1\lab2_1.pdb
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\obj\Debug\netcoreapp3.1\lab2_1.csprojAssemblyReference.cache
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\obj\Debug\netcoreapp3.1\lab2_1.AssemblyInfoInputs.cache
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\obj\Debug\netcoreapp3.1\lab2_1.AssemblyInfo.cs
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\obj\Debug\netcoreapp3.1\lab2_1.csproj.CoreCompileInputs.cache
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\obj\Debug\netcoreapp3.1\lab2_1.dll
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\obj\Debug\netcoreapp3.1\lab2_1.pdb
+C:\filesOfProgr\CodeOfCSharp\structureAndAlgoritms\lab2_1\obj\Debug\netcoreapp3.1\lab2_1.genruntimeconfig.cache
